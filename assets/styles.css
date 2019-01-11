@@ -1,0 +1,14 @@
+.main-body {
+    font-family: 'Work Sans';
+    padding: 30px;
+}
+
+.mt36 {
+    margin-top: 36px;
+}
+
+.my-name {
+    font-family: monospace;
+    font-weight: bold;
+    font-size: 16px
+}
